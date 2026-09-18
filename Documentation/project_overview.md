@@ -37,7 +37,7 @@ This video provides a complete walkthrough of the project, covering:
 - Cross-domain analysis
 - Business implications
 
-[Watch the Complete Project Walkthrough on LinkedIn](YOUR_LINK_HERE)
+[Watch the Complete Project Walkthrough on LinkedIn](https://www.linkedin.com/posts/jayalalitha-t_dataanalytics-powerbi-codebasics-activity-7500064926867034112-mj-J?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)
 
 ---
 
@@ -58,7 +58,7 @@ This view provides a high-level summary of:
 
 The purpose of this page is to help a business stakeholder quickly understand the **scale of the opportunity and the major areas requiring deeper analysis**.
 
-[Watch Executive Overview on LinkedIn](YOUR_LINK_HERE)
+[Watch Executive Overview on LinkedIn](https://www.linkedin.com/posts/jayalalitha-t_dataanalytics-powerbi-marketresearch-activity-7501136439716417537-GOWg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)
 
 ---
 
@@ -82,7 +82,7 @@ One of the important findings from the analysis was that **PM10 was the dominant
 
 This provides an important input when thinking about **air-purifier product requirements and filtration priorities**.
 
-[Watch Air Quality Analysis on LinkedIn](YOUR_LINK_HERE)
+[Watch Air Quality Analysis on LinkedIn](https://lnkd.in/p/dV_ijfCB)
 
 ---
 
@@ -113,7 +113,7 @@ to a more useful business question —
 
 > "Where is pollution high, what type of pollution is present, and when does it occur?"
 
-[Watch Pollution Hotspots Analysis on LinkedIn](YOUR_LINK_HERE)
+
 
 ---
 
@@ -140,8 +140,6 @@ For example, some states show substantial disease-case volumes together with rel
 > **Important:** This analysis identifies relationships and patterns in the available data. It does not establish that air pollution directly caused the observed health outcomes.
 
 The vehicle and EV analysis adds another perspective by helping understand **market size and mobility patterns across states**.
-
-[Watch Cross-Domain Analysis on LinkedIn](YOUR_LINK_HERE)
 
 ---
 
@@ -171,7 +169,7 @@ A potential market should be evaluated using multiple signals such as:
 
 **Pollution + Population + Health Burden + Market Size**
 
-[Watch Health & Market Opportunity Analysis on LinkedIn](YOUR_LINK_HERE)
+[Watch Health & Market Opportunity Analysis on LinkedIn](https://lnkd.in/p/d9b_H-Rh)
 
 ---
 
@@ -442,7 +440,7 @@ The complete project repository contains:
 
 #  LinkedIn Profile
 
-[Connect with me on LinkedIn](YOUR_LINKEDIN_PROFILE_LINK)
+[Connect with me on LinkedIn](www.linkedin.com/in/jayalalitha-t)
 
 ---
 
