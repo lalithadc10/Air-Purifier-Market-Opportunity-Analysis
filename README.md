@@ -114,7 +114,7 @@ The report follows a simple analytical journey:
 
 **Understand → Analyze → Locate → Connect → Act**
 
-![Home Page](Screenshots/Home_Page.png)
+![Home Page](Screenshots/Home_page.png)
 
 
 ### 1️⃣ Executive Overview
@@ -133,7 +133,7 @@ Key analysis includes:
 
 The purpose of this page is to help stakeholders quickly understand the **scale and distribution of the opportunity**.
 
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](Screenshots/Executive_overview.png)
 
 
 ### 2️⃣ Air Quality Analysis
@@ -155,7 +155,7 @@ One important finding from the analysis was that **PM10 emerged as the dominant 
 
 This provides useful context when evaluating potential **air-purifier filtration and product requirements**.
 
-![Air Quality Analysis](Screenshots/Air_Quality_Analysis.png)
+![Air Quality Analysis](Screenshots/Airquality_analysis.png)
 
 
 ### 3️⃣ Air Quality & Pollution Hotspots
@@ -199,7 +199,7 @@ Key analysis includes:
 
 This page demonstrates how multiple datasets can be connected to provide a broader business perspective rather than analyzing air quality in isolation.
 
-![Cross-Domain Analysis](Screenshots/Cross_Domain_Analysis.png)
+![Cross-Domain Analysis](Screenshots/Cross-domain_analysis.png)
 
 
 ### 5️⃣ Health & Market Opportunity
@@ -226,7 +226,7 @@ A potential market should be evaluated using multiple signals such as:
 
 **Pollution + Population + Health Burden + Market Size**
 
-![Health & Market Opportunity](Screenshots/Health_Market_Opportunity.png)
+![Health & Market Opportunity](Screenshots/Health&market_Opportunity.png)
 
 
 ##  Key Business Insights
@@ -478,6 +478,3 @@ The model was designed to support cross-domain analysis across:
 
 ![Data Model](Documentation/Datamodel.png)
 
-
-xlsx
-    └── states_Aqi.csv
