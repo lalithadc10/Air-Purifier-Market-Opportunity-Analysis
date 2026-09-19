@@ -226,7 +226,7 @@ A potential market should be evaluated using multiple signals such as:
 
 **Pollution + Population + Health Burden + Market Size**
 
-![Health & Market Opportunity](Screenshots/Health& market_Opportunity.png)
+![Health& market Opportunity](Screenshots/Health& market_Opportunity.png)
 
 
 ##  Key Business Insights
