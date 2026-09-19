@@ -180,7 +180,7 @@ and instead investigates:
 
 > **"Where is AQI high, what pollutants are present, and when does the pollution pattern occur?"**
 
-![Pollution Hotspots](Screenshots/Pollution_Hotspots.png)
+![Pollution Hotspots](Screenshots/Pollution _Hotspots.png)
 
 
 ### 4️⃣ Cross-Domain Analysis
@@ -226,7 +226,7 @@ A potential market should be evaluated using multiple signals such as:
 
 **Pollution + Population + Health Burden + Market Size**
 
-![Health & Market Opportunity](Screenshots/Health&market_Opportunity.png)
+![Health & Market Opportunity](Screenshots/Health& market_Opportunity.png)
 
 
 ##  Key Business Insights
